@@ -1,0 +1,247 @@
+export const syllabus = {
+  PRC: [
+    {
+      name: "Introduction to Accounting",
+      topics: [
+        "Accounting Equation",
+        "Double Entry Bookkeeping",
+        "Books of Prime Entry",
+        "Bank Reconciliation Statement",
+        "Correction of Errors",
+        "Inventory Valuation",
+        "Depreciation",
+        "Accruals and Prepayments",
+        "Financial Statements of Sole Traders",
+        "Manufacturing Accounts",
+      ],
+    },
+    {
+      name: "Quantitative Methods",
+      topics: [
+        "Basic Mathematics",
+        "Financial Mathematics",
+        "Calculus",
+        "Linear Programming",
+        "Data Collection and Presentation",
+        "Measures of Central Tendency",
+        "Probability",
+        "Sampling",
+        "Hypothesis Testing",
+        "Correlation and Regression",
+      ],
+    },
+    {
+      name: "Introduction to Business and Economics",
+      topics: [
+        "Nature of Business",
+        "Business Environment",
+        "Microeconomics",
+        "Demand and Supply",
+        "Market Structures",
+        "Macroeconomics",
+        "National Income",
+        "Inflation and Unemployment",
+        "Monetary and Fiscal Policy",
+        "International Trade",
+      ],
+    },
+  ],
+  CAF: [
+    {
+      name: "CAF-1: Financial Accounting and Reporting-I",
+      topics: [
+        "Conceptual Framework",
+        "IAS 1 Presentation of Financial Statements",
+        "IAS 2 Inventories",
+        "IAS 16 Property, Plant and Equipment",
+        "IAS 20 Government Grants",
+        "IAS 23 Borrowing Costs",
+        "IAS 36 Impairment of Assets",
+        "IAS 40 Investment Property",
+        "IFRS 15 Revenue from Contracts with Customers",
+      ],
+    },
+    {
+      name: "CAF-2: Tax Practices",
+      topics: [
+        "Basic Concepts of Taxation",
+        "Income from Salary",
+        "Income from Property",
+        "Income from Business",
+        "Capital Gains",
+        "Income from Other Sources",
+        "Taxation of Individuals",
+        "Taxation of AOPs",
+        "Sales Tax",
+      ],
+    },
+    {
+      name: "CAF-3: Cost and Management Accounting",
+      topics: [
+        "Cost Classification",
+        "Material Costing",
+        "Labour Costing",
+        "Overheads",
+        "Marginal and Absorption Costing",
+        "Job and Batch Costing",
+        "Process Costing",
+        "Standard Costing and Variance Analysis",
+        "Relevant Costing",
+      ],
+    },
+    {
+      name: "CAF-4: Business Law",
+      topics: [
+        "Introduction to Legal System",
+        "Contract Act 1872",
+        "Partnership Act 1932",
+        "Negotiable Instruments Act 1881",
+        "Other Business Laws",
+      ],
+    },
+    {
+      name: "CAF-5: Financial Accounting and Reporting-II",
+      topics: [
+        "IAS 38 Intangible Assets",
+        "IAS 37 Provisions, Contingent Liabilities and Contingent Assets",
+        "IAS 10 Events after the Reporting Period",
+        "IFRS 16 Leases",
+        "IAS 12 Income Taxes",
+        "Consolidated Financial Statements",
+        "Ethics for Accountants",
+      ],
+    },
+    {
+      name: "CAF-6: Managerial and Financial Analysis",
+      topics: [
+        "Financial Analysis",
+        "Cost of Capital",
+        "Capital Budgeting",
+        "Working Capital Management",
+        "Budgeting and Forecasting",
+        "Performance Measurement",
+      ],
+    },
+    {
+      name: "CAF-7: Company Law",
+      topics: [
+        "Incorporation of Company",
+        "Share Capital and Debentures",
+        "Management and Administration",
+        "Meetings and Proceedings",
+        "Directors and Chief Executive",
+        "Accounts and Dividends",
+        "Winding Up",
+      ],
+    },
+    {
+      name: "CAF-8: Audit and Assurance",
+      topics: [
+        "Audit Framework and Regulation",
+        "Planning and Risk Assessment",
+        "Internal Control",
+        "Audit Evidence",
+        "Review and Reporting",
+      ],
+    },
+    {
+      name: "CAF-9: Information Technology Management Information Systems (ITMIS)",
+      topics: [
+        "IT Infrastructure",
+        "Information Systems",
+        "E-Commerce",
+        "IT Security and Controls",
+        "Data Analytics",
+      ],
+    },
+  ],
+  CFAP: [
+    {
+      name: "CFAP-1: Advanced Accounting and Financial Reporting",
+      topics: [
+        "Consolidation",
+        "Financial Instruments",
+        "Leases",
+        "Share-based Payment",
+        "Business Combinations",
+        "Fair Value Measurement",
+        "Employee Benefits",
+        "Deferred Tax",
+      ],
+    },
+    {
+      name: "CFAP-2: Advanced Corporate Laws and Practices",
+      topics: [
+        "Advanced Company Law",
+        "Securities Market",
+        "Secretarial Practices",
+        "Corporate Governance",
+        "Mergers and Acquisitions",
+      ],
+    },
+    {
+      name: "CFAP-3: Strategy and Performance Measurement",
+      topics: [
+        "Strategic Planning",
+        "Performance Evaluation",
+        "Risk Management",
+        "Business Models",
+        "Sustainability",
+      ],
+    },
+    {
+      name: "CFAP-4: Business Finance Decisions",
+      topics: [
+        "Investment Appraisal",
+        "Mergers and Acquisitions",
+        "Corporate Valuation",
+        "Treasury Management",
+        "Financial Risk Management",
+      ],
+    },
+    {
+      name: "CFAP-5: Tax Planning and Practices",
+      topics: [
+        "Advanced Income Tax",
+        "Sales Tax",
+        "International Taxation",
+        "Tax Planning",
+        "Tax Audits and Appeals",
+      ],
+    },
+    {
+      name: "CFAP-6: Audit, Assurance and Related Services",
+      topics: [
+        "Advanced Audit Procedures",
+        "Group Audits",
+        "Quality Control",
+        "Forensic Auditing",
+        "Other Assurance Engagements",
+      ],
+    },
+  ],
+  MSA: [
+    {
+      name: "Financial Reporting and Assurance Professional Competence",
+      topics: [
+        "Complex Financial Reporting",
+        "Advanced Audit and Assurance",
+        "Ethics and Professionalism",
+        "Corporate Governance",
+        "Sustainability Reporting",
+      ],
+    },
+    {
+      name: "Management Professional Competence",
+      topics: [
+        "Strategic Management",
+        "Risk Management",
+        "Financial Management",
+        "Performance Management",
+        "Business Valuation",
+      ],
+    },
+  ],
+};
+
+export type ExamLevel = keyof typeof syllabus;
